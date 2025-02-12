@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1739290038 source:c:\users\augus\desktop\c++\ejercicios semana 3\ejercicios matrices\ejercicio 5\main.cpp
+	<iostream>
+	<string.h>
+	<stdio.h>
+	<wchar.h>
+	<locale.h>
+	<stdlib.h>
+	<iomanip>
+	<locale>
+	<cmath>
+	<ctime>
+
