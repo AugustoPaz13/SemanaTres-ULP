@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1739396623 source:c:\users\augus\desktop\c++\ejercicio 8v2\main.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+
